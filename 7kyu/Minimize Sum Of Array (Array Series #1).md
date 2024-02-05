@@ -1,6 +1,7 @@
 # Minimize Sum Of Array (Array Series #1)
 ## DESCRIPTION:
 Given an array of integers , Find the minimum sum which is obtained from summing each Two integers product .
+
 `Notes`
 
 Array/list will contain positives only.
